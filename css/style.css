@@ -71,12 +71,12 @@
 }
 
 .background {
-    background: rgba(91, 90, 90, 0.7) url('../images/group1.jpg');
+    background: rgba(91, 90, 90, 0.7) url('../group1.jpg');
     background-size: cover;
     background-blend-mode: darken;
 }
 .background2{
-    background: rgb(214, 246, 161) url('../images/group2.jpg');
+    background: rgb(214, 246, 161) url('../group2.jpg');
 }
 .box-main{
     display: flex;
